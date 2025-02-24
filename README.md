@@ -16,26 +16,19 @@ Note: Try to use GitHub Desktop to easy your task.
  
 
 ### **Kshitij Dwivedi**  
-- **Work Completed:**  
-  - [ ] Implemented Frotend as well as backend of the signup page and tested it using rest api 
-
-- **Work in Progress:**  
-  - [ ] Working on login page  
+  - [ ] Implemented Frotend as well as backend of the signup page and tested it using rest api ✔
+  - [ ] Working on login page⏳  
 
 ### **Maahi Dhaka**  
-- **Work Completed:**  
-  - [ ] Tailwind for styling frontend
+  - [ ] Tailwind for styling frontend ⏳
 
 ### **Nisha Ahmad**  
-- **Work Completed:**  
-  - [ ] JS & Reactjs for structuring frontend 
+  - [ ] JS ✔ 
+  - [ ] Reactjs for structuring frontend ⏳ 
 
 ### **Muhammad Baqir**  
-- **Work Completed:**  
-  - [ ] Implemented System Design for database  
-
-- **Work in Progress:**  
-  - [ ] Started working on socket io 
+  - [ ] Implemented System Design for database ✔ 
+  - [ ] Started working on socket io ⏳
 
 ---
 
