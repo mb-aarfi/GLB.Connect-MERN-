@@ -24,7 +24,7 @@ Note: Try to use GitHub Desktop to easy your task.
 
 ### **Nisha Ahmad**  
   - [ ] JS ✔ 
-  - [ ] Reactjs for structuring frontend ⏳ 
+  - [ ] React.js for structuring frontend ⏳ 
 
 ### **Muhammad Baqir**  
   - [ ] Implemented System Design for database ✔ 
